@@ -1,0 +1,1 @@
+/home/klab-1521-katayama/catkin_ws/devel/.private/hello/share/hello/cmake/helloConfig.cmake
