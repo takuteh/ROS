@@ -1,0 +1,1 @@
+/home/klab-1521-katayama/catkin_ws/devel/.private/kobuki_dashboard/lib/python3/dist-packages/kobuki_dashboard/__init__.py

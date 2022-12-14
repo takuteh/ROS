@@ -1,0 +1,1 @@
+/home/klab-1521-katayama/catkin_ws/devel/.private/turtlebot_msgs/share/roseus/ros/turtlebot_msgs/msg/PanoramaImg.l

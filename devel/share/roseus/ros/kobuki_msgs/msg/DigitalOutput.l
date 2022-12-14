@@ -1,0 +1,1 @@
+/home/klab-1521-katayama/catkin_ws/devel/.private/kobuki_msgs/share/roseus/ros/kobuki_msgs/msg/DigitalOutput.l
